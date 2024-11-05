@@ -15,7 +15,7 @@
   <p align="center">
   <a>
     <img height="150" width="150" src="https://github.com/chsaiujwal/chsaiujwal/blob/main/left.webp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sweetychowdary414&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chowdary414&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=dark&hide_border=true"/>
     <img height="150" width="150" src="https://github.com/chsaiujwal/chsaiujwal/blob/main/right.webp">
   </a>
 </p>
